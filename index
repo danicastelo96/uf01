@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>San Marino</title>
+  <link rel="stylesheet" type="text/css"
+    href="C:\Users\PC\OneDrive\Desktop\dani\estudios\1.2\LenMar\teroico practico 1\estilo.css" />
+</head>
+
+<body>
+  <p>
+    <img class="imagen"
+      src="https://th.bing.com/th/id/R.aa3663477bd0e29257a8bacfb3c863df?rik=6fUb6%2bGC9NgtxQ&pid=ImgRaw&r=0"
+      alt="bandera de San Marino" />
+  </p>
+  <p id="nombre">San Marino</p>
+  <p class="dato">europa</p>
+  <p class="dato">capital del mismo nombre: san marino</p>
+  <p class="dato">poblacion: 33,660 </p>
+  <table class="dato">
+    <tr>
+      <td class="coordenada">latitud</td>
+      <td>43°58′32″N</td>
+    </tr>
+    <tr>
+      <td class="coordenada"> longitud</td>
+      <td>12°28′42″E</td>
+    </tr>
+  </table>
+  <p>
+    <img class="imagen"
+      src="https://c8.alamy.com/comp/2J4KPCR/citta-di-san-marino-san-marino-september-1-2021-casa-di-risparmio-in-the-historical-center-of-san-marino-2J4KPCR.jpg"
+      alt="casa del risparinio" />
+  </p>
+  <p class="texto">San Marino3​ (pronunciado en italiano estándar según el AFI /sam ma'riːno/), oficialmente llamada República de San
+    Marino (en italiano, Repubblica di San Marino; en emiliano-romañol, Ripóbblica d’ San Marein),4​5​6​ también
+    conocida como Serenísima República de San Marino7​8​ (Serenissima Repubblica di San Marino), es una república9​
+    parlamentaria y el Estado soberano más antiguo del mundo.
+    <br></br>
+    10​ Es un enclavenota 1​ rodeado de territorio italiano, entre las regiones de Emilia-Romaña y las Marcas. La mayor
+    parte de su territorio corresponde a las laderas del monte Titano,11​12​ de 739 metros,13​14​ y se encuentra a 10
+    kilómetros del mar Adriático, por lo que, dada su ubicación, el Estado no tiene salida a dicho mar.
+
+    San Marino es uno de los tres únicos estados soberanos enclavados sin litoral del mundo (estados cuyo territorio
+    está completamente rodeado por un solo país), junto a la Ciudad del Vaticano, también enclave de Italia, y
+    Lesoto,15​ Estado enclave de Sudáfrica. Es además uno de los seis micro-Estados europeos.16​
+    <br></br>
+    Etimología
+    <br></br>
+    El Parva Domus fue finalizado en 1378 y alberga la Secretaría de Estado de Interior de San Marino (Segreteria di
+    Stato per gli affari interni)<br></br>
+    El país debe su nombre17​ a Marino diácono,18​ santo de la Iglesia católica.19​20​ Según la tradición, Marino dejó
+    la isla de Arbe (Rab), en la actual Croacia, para vivir en la ciudad de Rímini como cantero. Después de verse
+    víctima de la persecución de Diocleciano por sus sermones cristianos, escapó a las cercanías del Monte Titano, donde
+    construyó una pequeña iglesia y así fundó la actual capital del Estado de San Marino. La fecha oficial de la
+    fundación de la ciudad es el 3 de septiembre de 301.21
+    ​
+  </p>
+  <p>
+    <img class="imagen" src="https://www.lorenzotaccioli.it/wp-content/uploads/2017/08/Parva-Domus-San-Marino.jpg"
+      alt="parva domus" />
+  </p>
+
+  <p>
+
+    <a href="https://es.wikipedia.org/wiki/San_Marino"> si quieres saber más visita este link </a>
+  </p>
+</body>
+
+</html>
