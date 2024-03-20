@@ -1,0 +1,42 @@
+body {
+  background-color: #7ec6f3;
+}
+
+.texto {
+  width: 60%;
+  margin: auto;
+  display: block;
+  color: #17202A;
+  text-align: center;
+}
+
+.imagen {
+
+  width: 15%;
+  margin: auto;
+  display: block;
+  border: 12px solid #636d08;
+}
+
+#nombre {
+  color: #17202A;
+  text-align: center;
+  font-size: 250%;
+}
+
+.dato {
+  width: 60%;
+  margin: auto;
+  display: block;
+  color: #17202A;
+  text-align: center;
+  font-size: 175%;
+  border: 8px solid hsl(140, 90%, 36%);
+}
+
+#enlace:hover {
+  margin: auto;
+  display: block;
+  background-color: hsl(313, 93%, 54%);
+
+}
