@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://previews.123rf.com/images/yuttana590623/yuttana5906231603/yuttana590623160300090/56176403-textura-de-color-pastel-textura-concreta-de-hormig%C3%B3n-loft-estilo-concreto-desnudo-para-libros.jpg);
+
+}
+
+
+.texto {
+  width: 125%;
+  margin: auto;
+  display: block;
+  color: #1100a8;
+  text-align: center;
+}
+
+.imagen {
+
+  width: 15%;
+  margin: auto;
+  display: block;
+  border: 12px inset #636d08;
+}
+
+#nombre {
+  color: #f80707;
+  text-align: center;
+  font-size: 250%;
+}
+
+.dato {
+  width: 60%;
+  margin: auto;
+  display: block;
+  color: #da1788;
+  text-align: center;
+  font-size: 175%;
+  border: 2px dotted hsl(140, 90%, 36%);
+}
+
+#enlace:hover {
+  margin: auto;
+  display: block;
+  background-color: hsl(313, 93%, 54%);
+
+}
